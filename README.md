@@ -19,4 +19,3 @@
 ## 参考资料
 
 本仓库是学习记录，部分内容和示例代码参考或改写自 [《动手学深度学习》](https://zh.d2l.ai/)，原作者为 Aston Zhang、Zachary C. Lipton、Mu Li 和 Alexander J. Smola，中文版项目见 [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)。本仓库并非教材官方项目；相关教材内容和示例代码遵循原项目相应许可，详见原项目的许可说明。
-
